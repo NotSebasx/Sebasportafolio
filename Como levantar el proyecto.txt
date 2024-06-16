@@ -1,0 +1,10 @@
+Pasos para levantar el proyecto:
+1. Descargar archivo.
+2. Descomprimir la Capeta.
+3. Localiza la ruta de descarga.
+4. Abrir un CMD y loclaizar la ruta de la carpeta.
+5. Copiar (npm install -g @angular/cli).
+6. Copiar (npm install).
+7. Copiar (ng serve) Para levantar el servidor.
+8. Podrá visualizar el proyecto en el servidor http://localhost:4200/
+en su navegador.
